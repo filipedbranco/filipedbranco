@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @filipedbranco 
 - 🌍 I was born in Portugal. I lived for one year in Italy. And now I live in Berlin.
 - 👀 I’m interested in technology, videogames, books and travelling.
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development at DCI.
+- :smile: Looking forward to connect with more people here. 
 
 ![Lisboa](https://www.lisboacard.org/de/wp-content/themes/lis/img/home-banner.jpg)
 
