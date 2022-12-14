@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @filipedbranco 
-- 🌍 I was born in Portugal, but I also lived one year in Italy and now I live in Berlin.
+- 🌍 I was born in Portugal. I lived for one year in Italz. And now I live in Berlin.
 - 👀 I’m interested in technology, videogames, books and travelling.
 - 🌱 I’m currently learning Web Development
 
