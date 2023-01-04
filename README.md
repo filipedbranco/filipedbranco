@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Web Development at DCI.
 - :smile: Looking forward to connect with more people here. 
 
-![Lisboa](https://www.lisboacard.org/de/wp-content/themes/lis/img/home-banner.jpg)
 
 <!---
 filipedbranco/filipedbranco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
