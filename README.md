@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @filipedbranco 
-- 🌍 I was born in Portugal. I lived for one year in Italy. And now I live in Berlin.
+- 🌍 I was born in Portugal. I lived for one year in Italy. Now living in Berlin.
 - 👀 I’m interested in technology, videogames, books and travelling.
-- 🌱 I’m currently learning Web Development at DCI.
-- :smile: Looking forward to connect with more people here. 
+- 🌱 I've just finished a 12-month Web Deveolper course at DCI Digital Career Institute.
+- :smile: Looking forward  to find a job or internship and to connect with more people here. 
 
 
 <!---
