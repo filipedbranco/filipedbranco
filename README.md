@@ -2,7 +2,7 @@
 - 🌍 I was born in Portugal. I lived for one year in Italy. Now living in Berlin.
 - 👀 I’m interested in technology, videogames, books and travelling.
 - 🌱 I've just finished a 12-month Web Deveolper course at DCI Digital Career Institute.
-- :smile: Looking forward  to find a job or internship and to connect with more people here. 
+- :smile: Looking for job or internship and to connect with more people here. 
 
 
 <!---
