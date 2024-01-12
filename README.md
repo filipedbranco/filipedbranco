@@ -2,7 +2,7 @@
 filipedbranco/filipedbranco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h3 align="center">👋 Hi, I’m Filipe Branco </h3>
+<h3 align="center">👋 Hi, I’m Filipe Branco, a Web Developer based in Berlin </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filipedbranco&label=Profile%20views&color=0e75b6&style=flat" alt="filipedbranco" /> </p>
 
